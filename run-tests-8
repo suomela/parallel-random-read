@@ -1,0 +1,9 @@
+#!/bin/bash
+
+mkdir -p result-8 || exit 1
+cat /proc/cpuinfo > result-8/cpuinfo || exit 1
+
+OMP_NUM_THREADS=8 OMP_PROC_BIND=true bin/test-openmp | tee result-8/test-openmp-8
+OMP_NUM_THREADS=4 OMP_PROC_BIND=true bin/test-openmp | tee result-8/test-openmp-4
+OMP_NUM_THREADS=2 OMP_PROC_BIND=true bin/test-openmp | tee result-8/test-openmp-2
+bin/test-simple | tee result-8/test-simple
