@@ -4,7 +4,7 @@ cpu family	: 6
 model		: 44
 model name	: Intel(R) Xeon(R) CPU           X5650  @ 2.67GHz
 stepping	: 2
-cpu MHz		: 1600.000
+cpu MHz		: 1596.000
 cache size	: 12288 KB
 physical id	: 0
 siblings	: 6
@@ -17,7 +17,7 @@ fpu_exception	: yes
 cpuid level	: 11
 wp		: yes
 flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc arch_perfmon pebs bts rep_good xtopology nonstop_tsc aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 cx16 xtpr pdcm pcid dca sse4_1 sse4_2 popcnt aes lahf_lm ida arat epb dts tpr_shadow vnmi flexpriority ept vpid
-bogomips	: 5333.78
+bogomips	: 5333.96
 clflush size	: 64
 cache_alignment	: 64
 address sizes	: 40 bits physical, 48 bits virtual
@@ -29,7 +29,7 @@ cpu family	: 6
 model		: 44
 model name	: Intel(R) Xeon(R) CPU           X5650  @ 2.67GHz
 stepping	: 2
-cpu MHz		: 1600.000
+cpu MHz		: 1596.000
 cache size	: 12288 KB
 physical id	: 1
 siblings	: 6
@@ -42,7 +42,7 @@ fpu_exception	: yes
 cpuid level	: 11
 wp		: yes
 flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc arch_perfmon pebs bts rep_good xtopology nonstop_tsc aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 cx16 xtpr pdcm pcid dca sse4_1 sse4_2 popcnt aes lahf_lm ida arat epb dts tpr_shadow vnmi flexpriority ept vpid
-bogomips	: 5333.21
+bogomips	: 5333.19
 clflush size	: 64
 cache_alignment	: 64
 address sizes	: 40 bits physical, 48 bits virtual
@@ -54,7 +54,7 @@ cpu family	: 6
 model		: 44
 model name	: Intel(R) Xeon(R) CPU           X5650  @ 2.67GHz
 stepping	: 2
-cpu MHz		: 1600.000
+cpu MHz		: 1596.000
 cache size	: 12288 KB
 physical id	: 0
 siblings	: 6
@@ -67,7 +67,7 @@ fpu_exception	: yes
 cpuid level	: 11
 wp		: yes
 flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc arch_perfmon pebs bts rep_good xtopology nonstop_tsc aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 cx16 xtpr pdcm pcid dca sse4_1 sse4_2 popcnt aes lahf_lm ida arat epb dts tpr_shadow vnmi flexpriority ept vpid
-bogomips	: 5333.78
+bogomips	: 5333.96
 clflush size	: 64
 cache_alignment	: 64
 address sizes	: 40 bits physical, 48 bits virtual
@@ -79,7 +79,7 @@ cpu family	: 6
 model		: 44
 model name	: Intel(R) Xeon(R) CPU           X5650  @ 2.67GHz
 stepping	: 2
-cpu MHz		: 1600.000
+cpu MHz		: 1596.000
 cache size	: 12288 KB
 physical id	: 1
 siblings	: 6
@@ -92,7 +92,7 @@ fpu_exception	: yes
 cpuid level	: 11
 wp		: yes
 flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc arch_perfmon pebs bts rep_good xtopology nonstop_tsc aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 cx16 xtpr pdcm pcid dca sse4_1 sse4_2 popcnt aes lahf_lm ida arat epb dts tpr_shadow vnmi flexpriority ept vpid
-bogomips	: 5333.21
+bogomips	: 5333.19
 clflush size	: 64
 cache_alignment	: 64
 address sizes	: 40 bits physical, 48 bits virtual
@@ -104,7 +104,7 @@ cpu family	: 6
 model		: 44
 model name	: Intel(R) Xeon(R) CPU           X5650  @ 2.67GHz
 stepping	: 2
-cpu MHz		: 1600.000
+cpu MHz		: 1596.000
 cache size	: 12288 KB
 physical id	: 0
 siblings	: 6
@@ -117,7 +117,7 @@ fpu_exception	: yes
 cpuid level	: 11
 wp		: yes
 flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc arch_perfmon pebs bts rep_good xtopology nonstop_tsc aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 cx16 xtpr pdcm pcid dca sse4_1 sse4_2 popcnt aes lahf_lm ida arat epb dts tpr_shadow vnmi flexpriority ept vpid
-bogomips	: 5333.78
+bogomips	: 5333.96
 clflush size	: 64
 cache_alignment	: 64
 address sizes	: 40 bits physical, 48 bits virtual
@@ -129,7 +129,7 @@ cpu family	: 6
 model		: 44
 model name	: Intel(R) Xeon(R) CPU           X5650  @ 2.67GHz
 stepping	: 2
-cpu MHz		: 1600.000
+cpu MHz		: 1596.000
 cache size	: 12288 KB
 physical id	: 1
 siblings	: 6
@@ -142,7 +142,7 @@ fpu_exception	: yes
 cpuid level	: 11
 wp		: yes
 flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc arch_perfmon pebs bts rep_good xtopology nonstop_tsc aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 cx16 xtpr pdcm pcid dca sse4_1 sse4_2 popcnt aes lahf_lm ida arat epb dts tpr_shadow vnmi flexpriority ept vpid
-bogomips	: 5333.21
+bogomips	: 5333.19
 clflush size	: 64
 cache_alignment	: 64
 address sizes	: 40 bits physical, 48 bits virtual
@@ -154,7 +154,7 @@ cpu family	: 6
 model		: 44
 model name	: Intel(R) Xeon(R) CPU           X5650  @ 2.67GHz
 stepping	: 2
-cpu MHz		: 1600.000
+cpu MHz		: 1596.000
 cache size	: 12288 KB
 physical id	: 0
 siblings	: 6
@@ -167,7 +167,7 @@ fpu_exception	: yes
 cpuid level	: 11
 wp		: yes
 flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc arch_perfmon pebs bts rep_good xtopology nonstop_tsc aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 cx16 xtpr pdcm pcid dca sse4_1 sse4_2 popcnt aes lahf_lm ida arat epb dts tpr_shadow vnmi flexpriority ept vpid
-bogomips	: 5333.78
+bogomips	: 5333.96
 clflush size	: 64
 cache_alignment	: 64
 address sizes	: 40 bits physical, 48 bits virtual
@@ -179,7 +179,7 @@ cpu family	: 6
 model		: 44
 model name	: Intel(R) Xeon(R) CPU           X5650  @ 2.67GHz
 stepping	: 2
-cpu MHz		: 1600.000
+cpu MHz		: 1596.000
 cache size	: 12288 KB
 physical id	: 1
 siblings	: 6
@@ -192,7 +192,7 @@ fpu_exception	: yes
 cpuid level	: 11
 wp		: yes
 flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc arch_perfmon pebs bts rep_good xtopology nonstop_tsc aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 cx16 xtpr pdcm pcid dca sse4_1 sse4_2 popcnt aes lahf_lm ida arat epb dts tpr_shadow vnmi flexpriority ept vpid
-bogomips	: 5333.21
+bogomips	: 5333.19
 clflush size	: 64
 cache_alignment	: 64
 address sizes	: 40 bits physical, 48 bits virtual
@@ -204,7 +204,7 @@ cpu family	: 6
 model		: 44
 model name	: Intel(R) Xeon(R) CPU           X5650  @ 2.67GHz
 stepping	: 2
-cpu MHz		: 1600.000
+cpu MHz		: 1596.000
 cache size	: 12288 KB
 physical id	: 0
 siblings	: 6
@@ -217,7 +217,7 @@ fpu_exception	: yes
 cpuid level	: 11
 wp		: yes
 flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc arch_perfmon pebs bts rep_good xtopology nonstop_tsc aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 cx16 xtpr pdcm pcid dca sse4_1 sse4_2 popcnt aes lahf_lm ida arat epb dts tpr_shadow vnmi flexpriority ept vpid
-bogomips	: 5333.78
+bogomips	: 5333.96
 clflush size	: 64
 cache_alignment	: 64
 address sizes	: 40 bits physical, 48 bits virtual
@@ -229,7 +229,7 @@ cpu family	: 6
 model		: 44
 model name	: Intel(R) Xeon(R) CPU           X5650  @ 2.67GHz
 stepping	: 2
-cpu MHz		: 1600.000
+cpu MHz		: 1596.000
 cache size	: 12288 KB
 physical id	: 1
 siblings	: 6
@@ -242,7 +242,7 @@ fpu_exception	: yes
 cpuid level	: 11
 wp		: yes
 flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc arch_perfmon pebs bts rep_good xtopology nonstop_tsc aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 cx16 xtpr pdcm pcid dca sse4_1 sse4_2 popcnt aes lahf_lm ida arat epb dts tpr_shadow vnmi flexpriority ept vpid
-bogomips	: 5333.21
+bogomips	: 5333.19
 clflush size	: 64
 cache_alignment	: 64
 address sizes	: 40 bits physical, 48 bits virtual
@@ -254,7 +254,7 @@ cpu family	: 6
 model		: 44
 model name	: Intel(R) Xeon(R) CPU           X5650  @ 2.67GHz
 stepping	: 2
-cpu MHz		: 1600.000
+cpu MHz		: 1596.000
 cache size	: 12288 KB
 physical id	: 0
 siblings	: 6
@@ -267,7 +267,7 @@ fpu_exception	: yes
 cpuid level	: 11
 wp		: yes
 flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc arch_perfmon pebs bts rep_good xtopology nonstop_tsc aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 cx16 xtpr pdcm pcid dca sse4_1 sse4_2 popcnt aes lahf_lm ida arat epb dts tpr_shadow vnmi flexpriority ept vpid
-bogomips	: 5333.78
+bogomips	: 5333.96
 clflush size	: 64
 cache_alignment	: 64
 address sizes	: 40 bits physical, 48 bits virtual
@@ -279,7 +279,7 @@ cpu family	: 6
 model		: 44
 model name	: Intel(R) Xeon(R) CPU           X5650  @ 2.67GHz
 stepping	: 2
-cpu MHz		: 1600.000
+cpu MHz		: 1596.000
 cache size	: 12288 KB
 physical id	: 1
 siblings	: 6
@@ -292,7 +292,7 @@ fpu_exception	: yes
 cpuid level	: 11
 wp		: yes
 flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc arch_perfmon pebs bts rep_good xtopology nonstop_tsc aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 cx16 xtpr pdcm pcid dca sse4_1 sse4_2 popcnt aes lahf_lm ida arat epb dts tpr_shadow vnmi flexpriority ept vpid
-bogomips	: 5333.21
+bogomips	: 5333.19
 clflush size	: 64
 cache_alignment	: 64
 address sizes	: 40 bits physical, 48 bits virtual
