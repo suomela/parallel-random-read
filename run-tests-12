@@ -1,0 +1,10 @@
+#!/bin/bash
+
+mkdir -p result-12 || exit 1
+cat /proc/cpuinfo > result-12/cpuinfo || exit 1
+
+OMP_NUM_THREADS=12 OMP_PROC_BIND=true bin/test-openmp | tee result-12/test-openmp-12
+OMP_NUM_THREADS=8  OMP_PROC_BIND=true bin/test-openmp | tee result-12/test-openmp-8
+OMP_NUM_THREADS=4  OMP_PROC_BIND=true bin/test-openmp | tee result-12/test-openmp-4
+OMP_NUM_THREADS=2  OMP_PROC_BIND=true bin/test-openmp | tee result-12/test-openmp-2
+bin/test-simple | tee result-12/test-simple
