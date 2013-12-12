@@ -14,5 +14,5 @@ fi
 
 mkdir -p bin || exit 1
 
-$CXX $CXXFLAGS           -DTEST_SIMPLE -o bin/test-simple test.cc || exit 1
-$CXX $CXXFLAGS $OMPFLAGS -DTEST_OPENMP -o bin/test-openmp test.cc || exit 1
+$CXX $CXXFLAGS           -DTEST_SIMPLE -o bin/test-simple$BINSUFFIX test.cc || exit 1
+$CXX $CXXFLAGS $OMPFLAGS -DTEST_OPENMP -o bin/test-openmp$BINSUFFIX test.cc || exit 1
