@@ -8,6 +8,9 @@ Testing how well the following loop parallelises:
 
 See: http://cs.stackexchange.com/q/18834/232
 
+Note: this program requires approx. *24 GB of RAM*.
+Change the constant "BITS_TO" if necessary.
+
 
 Files
 -----
