@@ -5,7 +5,7 @@ model		: 26
 model name	: Intel(R) Xeon(R) CPU           E5540  @ 2.53GHz
 stepping	: 5
 microcode	: 0x19
-cpu MHz		: 2526.885
+cpu MHz		: 2526.846
 cache size	: 8192 KB
 physical id	: 1
 siblings	: 8
@@ -18,7 +18,7 @@ fpu_exception	: yes
 cpuid level	: 11
 wp		: yes
 flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx rdtscp lm constant_tsc arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc aperfmperf pni dtes64 monitor ds_cpl vmx est tm2 ssse3 cx16 xtpr pdcm dca sse4_1 sse4_2 popcnt lahf_lm ida dtherm tpr_shadow vnmi flexpriority ept vpid
-bogomips	: 5053.77
+bogomips	: 5053.69
 clflush size	: 64
 cache_alignment	: 64
 address sizes	: 40 bits physical, 48 bits virtual
@@ -31,7 +31,7 @@ model		: 26
 model name	: Intel(R) Xeon(R) CPU           E5540  @ 2.53GHz
 stepping	: 5
 microcode	: 0x19
-cpu MHz		: 2526.885
+cpu MHz		: 2526.846
 cache size	: 8192 KB
 physical id	: 0
 siblings	: 8
@@ -44,7 +44,7 @@ fpu_exception	: yes
 cpuid level	: 11
 wp		: yes
 flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx rdtscp lm constant_tsc arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc aperfmperf pni dtes64 monitor ds_cpl vmx est tm2 ssse3 cx16 xtpr pdcm dca sse4_1 sse4_2 popcnt lahf_lm ida dtherm tpr_shadow vnmi flexpriority ept vpid
-bogomips	: 5053.86
+bogomips	: 5053.83
 clflush size	: 64
 cache_alignment	: 64
 address sizes	: 40 bits physical, 48 bits virtual
@@ -57,7 +57,7 @@ model		: 26
 model name	: Intel(R) Xeon(R) CPU           E5540  @ 2.53GHz
 stepping	: 5
 microcode	: 0x19
-cpu MHz		: 2526.885
+cpu MHz		: 2526.846
 cache size	: 8192 KB
 physical id	: 1
 siblings	: 8
@@ -70,7 +70,7 @@ fpu_exception	: yes
 cpuid level	: 11
 wp		: yes
 flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx rdtscp lm constant_tsc arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc aperfmperf pni dtes64 monitor ds_cpl vmx est tm2 ssse3 cx16 xtpr pdcm dca sse4_1 sse4_2 popcnt lahf_lm ida dtherm tpr_shadow vnmi flexpriority ept vpid
-bogomips	: 5053.81
+bogomips	: 5053.82
 clflush size	: 64
 cache_alignment	: 64
 address sizes	: 40 bits physical, 48 bits virtual
@@ -83,7 +83,7 @@ model		: 26
 model name	: Intel(R) Xeon(R) CPU           E5540  @ 2.53GHz
 stepping	: 5
 microcode	: 0x19
-cpu MHz		: 2526.885
+cpu MHz		: 2526.846
 cache size	: 8192 KB
 physical id	: 0
 siblings	: 8
@@ -96,7 +96,7 @@ fpu_exception	: yes
 cpuid level	: 11
 wp		: yes
 flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx rdtscp lm constant_tsc arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc aperfmperf pni dtes64 monitor ds_cpl vmx est tm2 ssse3 cx16 xtpr pdcm dca sse4_1 sse4_2 popcnt lahf_lm ida dtherm tpr_shadow vnmi flexpriority ept vpid
-bogomips	: 5053.84
+bogomips	: 5053.81
 clflush size	: 64
 cache_alignment	: 64
 address sizes	: 40 bits physical, 48 bits virtual
@@ -109,7 +109,7 @@ model		: 26
 model name	: Intel(R) Xeon(R) CPU           E5540  @ 2.53GHz
 stepping	: 5
 microcode	: 0x19
-cpu MHz		: 2526.885
+cpu MHz		: 2526.846
 cache size	: 8192 KB
 physical id	: 1
 siblings	: 8
@@ -135,7 +135,7 @@ model		: 26
 model name	: Intel(R) Xeon(R) CPU           E5540  @ 2.53GHz
 stepping	: 5
 microcode	: 0x19
-cpu MHz		: 2526.885
+cpu MHz		: 2526.846
 cache size	: 8192 KB
 physical id	: 0
 siblings	: 8
@@ -148,7 +148,7 @@ fpu_exception	: yes
 cpuid level	: 11
 wp		: yes
 flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx rdtscp lm constant_tsc arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc aperfmperf pni dtes64 monitor ds_cpl vmx est tm2 ssse3 cx16 xtpr pdcm dca sse4_1 sse4_2 popcnt lahf_lm ida dtherm tpr_shadow vnmi flexpriority ept vpid
-bogomips	: 5053.85
+bogomips	: 5053.78
 clflush size	: 64
 cache_alignment	: 64
 address sizes	: 40 bits physical, 48 bits virtual
@@ -161,7 +161,7 @@ model		: 26
 model name	: Intel(R) Xeon(R) CPU           E5540  @ 2.53GHz
 stepping	: 5
 microcode	: 0x19
-cpu MHz		: 2526.885
+cpu MHz		: 2526.846
 cache size	: 8192 KB
 physical id	: 1
 siblings	: 8
@@ -187,7 +187,7 @@ model		: 26
 model name	: Intel(R) Xeon(R) CPU           E5540  @ 2.53GHz
 stepping	: 5
 microcode	: 0x19
-cpu MHz		: 2526.885
+cpu MHz		: 2526.846
 cache size	: 8192 KB
 physical id	: 0
 siblings	: 8
@@ -200,7 +200,7 @@ fpu_exception	: yes
 cpuid level	: 11
 wp		: yes
 flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx rdtscp lm constant_tsc arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc aperfmperf pni dtes64 monitor ds_cpl vmx est tm2 ssse3 cx16 xtpr pdcm dca sse4_1 sse4_2 popcnt lahf_lm ida dtherm tpr_shadow vnmi flexpriority ept vpid
-bogomips	: 5053.83
+bogomips	: 5053.81
 clflush size	: 64
 cache_alignment	: 64
 address sizes	: 40 bits physical, 48 bits virtual
@@ -213,7 +213,7 @@ model		: 26
 model name	: Intel(R) Xeon(R) CPU           E5540  @ 2.53GHz
 stepping	: 5
 microcode	: 0x19
-cpu MHz		: 2526.885
+cpu MHz		: 2526.846
 cache size	: 8192 KB
 physical id	: 1
 siblings	: 8
@@ -239,7 +239,7 @@ model		: 26
 model name	: Intel(R) Xeon(R) CPU           E5540  @ 2.53GHz
 stepping	: 5
 microcode	: 0x19
-cpu MHz		: 2526.885
+cpu MHz		: 2526.846
 cache size	: 8192 KB
 physical id	: 0
 siblings	: 8
@@ -252,7 +252,7 @@ fpu_exception	: yes
 cpuid level	: 11
 wp		: yes
 flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx rdtscp lm constant_tsc arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc aperfmperf pni dtes64 monitor ds_cpl vmx est tm2 ssse3 cx16 xtpr pdcm dca sse4_1 sse4_2 popcnt lahf_lm ida dtherm tpr_shadow vnmi flexpriority ept vpid
-bogomips	: 5053.85
+bogomips	: 5053.83
 clflush size	: 64
 cache_alignment	: 64
 address sizes	: 40 bits physical, 48 bits virtual
@@ -265,7 +265,7 @@ model		: 26
 model name	: Intel(R) Xeon(R) CPU           E5540  @ 2.53GHz
 stepping	: 5
 microcode	: 0x19
-cpu MHz		: 2526.885
+cpu MHz		: 2526.846
 cache size	: 8192 KB
 physical id	: 1
 siblings	: 8
@@ -291,7 +291,7 @@ model		: 26
 model name	: Intel(R) Xeon(R) CPU           E5540  @ 2.53GHz
 stepping	: 5
 microcode	: 0x19
-cpu MHz		: 2526.885
+cpu MHz		: 2526.846
 cache size	: 8192 KB
 physical id	: 0
 siblings	: 8
@@ -304,7 +304,7 @@ fpu_exception	: yes
 cpuid level	: 11
 wp		: yes
 flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx rdtscp lm constant_tsc arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc aperfmperf pni dtes64 monitor ds_cpl vmx est tm2 ssse3 cx16 xtpr pdcm dca sse4_1 sse4_2 popcnt lahf_lm ida dtherm tpr_shadow vnmi flexpriority ept vpid
-bogomips	: 5053.86
+bogomips	: 5053.78
 clflush size	: 64
 cache_alignment	: 64
 address sizes	: 40 bits physical, 48 bits virtual
@@ -317,7 +317,7 @@ model		: 26
 model name	: Intel(R) Xeon(R) CPU           E5540  @ 2.53GHz
 stepping	: 5
 microcode	: 0x19
-cpu MHz		: 2526.885
+cpu MHz		: 2526.846
 cache size	: 8192 KB
 physical id	: 1
 siblings	: 8
@@ -343,7 +343,7 @@ model		: 26
 model name	: Intel(R) Xeon(R) CPU           E5540  @ 2.53GHz
 stepping	: 5
 microcode	: 0x19
-cpu MHz		: 2526.885
+cpu MHz		: 2526.846
 cache size	: 8192 KB
 physical id	: 0
 siblings	: 8
@@ -356,7 +356,7 @@ fpu_exception	: yes
 cpuid level	: 11
 wp		: yes
 flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx rdtscp lm constant_tsc arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc aperfmperf pni dtes64 monitor ds_cpl vmx est tm2 ssse3 cx16 xtpr pdcm dca sse4_1 sse4_2 popcnt lahf_lm ida dtherm tpr_shadow vnmi flexpriority ept vpid
-bogomips	: 5053.85
+bogomips	: 5053.83
 clflush size	: 64
 cache_alignment	: 64
 address sizes	: 40 bits physical, 48 bits virtual
@@ -369,7 +369,7 @@ model		: 26
 model name	: Intel(R) Xeon(R) CPU           E5540  @ 2.53GHz
 stepping	: 5
 microcode	: 0x19
-cpu MHz		: 2526.885
+cpu MHz		: 2526.846
 cache size	: 8192 KB
 physical id	: 1
 siblings	: 8
@@ -395,7 +395,7 @@ model		: 26
 model name	: Intel(R) Xeon(R) CPU           E5540  @ 2.53GHz
 stepping	: 5
 microcode	: 0x19
-cpu MHz		: 2526.885
+cpu MHz		: 2526.846
 cache size	: 8192 KB
 physical id	: 0
 siblings	: 8
@@ -408,7 +408,7 @@ fpu_exception	: yes
 cpuid level	: 11
 wp		: yes
 flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx rdtscp lm constant_tsc arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc aperfmperf pni dtes64 monitor ds_cpl vmx est tm2 ssse3 cx16 xtpr pdcm dca sse4_1 sse4_2 popcnt lahf_lm ida dtherm tpr_shadow vnmi flexpriority ept vpid
-bogomips	: 5053.85
+bogomips	: 5053.75
 clflush size	: 64
 cache_alignment	: 64
 address sizes	: 40 bits physical, 48 bits virtual
