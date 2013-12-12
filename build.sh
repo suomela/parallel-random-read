@@ -5,7 +5,7 @@ if [ "$CXX" = "" ]; then
 fi
 
 if [ "$CXXFLAGS" = "" ]; then
-    CXXFLAGS="-g -std=c++11 -march=native -O3 -Werror -Wall -Wextra -Wunused -Wold-style-cast -Woverloaded-virtual -Wsign-promo -Wdouble-promotion -Wconversion -Wsign-conversion -Wmissing-declarations -Wredundant-decls -Wno-unknown-pragmas"
+    CXXFLAGS="-g -std=c++11 -march=native -O3 -Werror -Wall -Wextra -Wunused -Wold-style-cast -Woverloaded-virtual -Wsign-promo -Wdouble-promotion -Wconversion -Wsign-conversion -Wmissing-declarations -Wredundant-decls -Wno-unknown-pragmas -Drestrict=__restrict__"
 fi
 
 if [ "$OMPFLAGS" = "" ]; then
