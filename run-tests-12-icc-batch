@@ -1,0 +1,10 @@
+#!/bin/bash
+#SBATCH -p short
+#SBATCH --qos=short
+#SBATCH --cpus-per-task=12
+#SBATCH --time=02:00:00
+#SBATCH --mem-per-cpu=2500
+#SBATCH --constraint=xeon
+#SBATCH --output=tmp/slurm-%A_%a.out
+
+srun ./run-tests-12-icc
