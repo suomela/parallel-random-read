@@ -1,4 +1,6 @@
+#include <cassert>
 #include <chrono>
+#include <climits>
 #include <iostream>
 #include <limits>
 #include <memory>
@@ -13,8 +15,8 @@ constexpr double TIME_SCALE {1E12};  // picoseconds per array element
 constexpr unsigned MAGIC {123};
 
 static_assert(BITS_TO <= 32, "BITS_TO");
-static_assert(std::numeric_limits<unsigned>::max() == 0xFFFFFFFF, "32-bit int");
-static_assert(std::numeric_limits<unsigned long>::max() == 0xFFFFFFFFFFFFFFFF, "64-bit long");
+static_assert(UINT_MAX == 0xFFFFFFFF, "32-bit int");
+static_assert(ULONG_MAX == 0xFFFFFFFFFFFFFFFF, "64-bit long");
 
 using data_t = unsigned char;
 using Clock = std::chrono::high_resolution_clock;
@@ -76,7 +78,7 @@ static void tester(unsigned long n, const unsigned *p, data_t *x, data_t *y) {
 static void create(unsigned long n, unsigned *p, data_t *x, data_t *y) {
     Rng rng {1};
     unsigned long mask {n - 1};
-    static_assert(rng.max() == std::numeric_limits<unsigned>::max(), "rng.max");
+    assert(rng.max() == UINT_MAX);
     for (unsigned long i = 0; i < n; ++i) {
         unsigned a {static_cast<unsigned>(rng() & mask)};
         p[i] = a;
