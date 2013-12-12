@@ -26,7 +26,7 @@ using Rng = std::mt19937;
 
 #if defined(TEST_SIMPLE)
 
-static void loop(unsigned long n, const unsigned *p, const data_t *x, data_t *y) {
+static void loop(unsigned long n, const unsigned * restrict p, const data_t * restrict x, data_t * restrict y) {
     for (unsigned long i = 0; i < n; ++i) {
         y[i] = x[p[i]];
     }
@@ -34,7 +34,7 @@ static void loop(unsigned long n, const unsigned *p, const data_t *x, data_t *y)
 
 #elif defined(TEST_OPENMP)
 
-static void loop(unsigned long n, const unsigned *p, const data_t *x, data_t *y) {
+static void loop(unsigned long n, const unsigned * restrict p, const data_t * restrict x, data_t * restrict y) {
     #pragma omp parallel for
     for (unsigned long i = 0; i < n; ++i) {
         y[i] = x[p[i]];
