@@ -33,11 +33,11 @@ for d in sorted(os.listdir("."), key=sortkey):
                         nset.add(n)
         nlist = sorted(nset)
         for a in tests:
-            print "{}/{}".format(d, a)
+            print "{0}/{1}".format(d, a)
             print
             for n in nlist:
                 rmin = result[BASELINE][n][0] / result[a][n][2]
                 ravg = result[BASELINE][n][1] / result[a][n][1]
                 rmax = result[BASELINE][n][2] / result[a][n][0]
-                print "{:.3f}\t{:.3f}\t{:.3f}\t{}".format(rmin, ravg, rmax, n)
+                print "{0:.3f}\t{1:.3f}\t{2:.3f}\t{3}".format(rmin, ravg, rmax, n)
             print
